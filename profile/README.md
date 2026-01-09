@@ -10,6 +10,9 @@ From Shaanxi Xi'an Center Developer (Include All Chinese Developer) And All Over
 
 ... Use Own Develop Game Engine Named FINAL ENGINE .....
 
+~~Published On St*** And E*** G***s Use The Less Cost For Player.~~
+
 HINT: S.I.N.F.Y (Souls Infinity）
+
 
 
