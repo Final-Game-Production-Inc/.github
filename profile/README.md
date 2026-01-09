@@ -8,11 +8,12 @@ From Shaanxi Xi'an Center Developer (Include All Chinese Developer) And All Over
 
 ... To Make A Popular Souls Open World 3A With Ultimate UGC Game Without Money, When Published In 203X ................
 
-... Use Own Develop Game Engine Named FINAL ENGINE .....
+... Use Own Develop Game Engine Named FINAL ENGINE, Will Open-Source With GPL-3.0 And LGPL-3.0 License In 203X .....
 
 ~~Published On St*** And E*** G***s Use The Less Cost For Player.~~
 
 HINT: S.I.N.F.Y (Souls Infinity）
+
 
 
 
