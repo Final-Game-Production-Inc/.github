@@ -10,9 +10,12 @@ From Shaanxi Xi'an Center Developer (Include All Chinese Developer) And All Over
 
 ... Use Own Develop Game Engine Named FINAL ENGINE, Will Open-Source With GPL-3.0 And LGPL-3.0 License In 203X .....
 
+... We're Not Compete For Other Game Enterprise, To Try, To Do Us Better ........
+
 ~~Published On St*** And E*** G***s Use The Less Cost For Player.~~
 
 HINT: S.I.N.F.Y (Souls Infinity）
+
 
 
 
