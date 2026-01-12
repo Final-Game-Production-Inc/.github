@@ -4,6 +4,8 @@
     <img src="https://raw.githubusercontent.com/Final-Game-Production-Inc/.github/fe4c0c2401926b515062e1df75a7969c1ca7b93a/profile/FGP-INC.svg" alt="Screenshot">
 </p>
 
+The Boss, FINALZ(As FINAL-27980), A Junior College Students(Exactly Not Undergraduate Students) One, A Unknown Coder Lover, A Unknown Composer Lover, A Unknown Novelist Lover, And Game Designer Lover....
+
 From Shaanxi Xi'an Center Developer (Include All Chinese Developer) And All Over The World Underground Developer Organization In The Earth.
 
 ... To Make A Popular Souls Open World 3A With Ultimate UGC Game Without Money, When Published In 203X ................
@@ -15,9 +17,3 @@ From Shaanxi Xi'an Center Developer (Include All Chinese Developer) And All Over
 ~~Published On St*** And E*** G***s Use The Less Cost For Player.~~
 
 HINT: S.I.N.F.Y (Souls Infinity）
-
-
-
-
-
-
