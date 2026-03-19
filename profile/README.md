@@ -16,6 +16,6 @@ From Shaanxi Xi'an Center Developer (Include All Chinese Developer) And All Over
 
 ~~Published On St*** And E*** G***s Use The Less Cost For Player.~~
 
-HINT: S.I.N.F.Y (Souls Infinity）
+HINT CODE NAME: S.I.N.F.Y (Souls Infinity）
 
 
